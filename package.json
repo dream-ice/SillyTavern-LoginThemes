@@ -1,0 +1,22 @@
+{
+  "name": "sillytavern-login-themes",
+  "version": "1.0.0",
+  "description": "🎨 Login Theme Manager for SillyTavern - Easy theme switching and sharing for login pages",
+  "main": "index.js",
+  "author": "SillyTavern Community",
+  "license": "MIT",
+  "keywords": [
+    "sillytavern",
+    "plugin",
+    "theme",
+    "login",
+    "css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/SillyTavern-LoginThemes"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
