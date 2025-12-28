@@ -26,7 +26,7 @@
 
 ```bash
 cd /path/to/SillyTavern/plugins
-git clone https://github.com/your-username/SillyTavern-LoginThemes.git login-themes
+git clone https://github.com/dream-ice/SillyTavern-LoginThemes.git login-themes
 ```
 
 ## 🔧 使用方法
@@ -148,16 +148,6 @@ SillyTavern-LoginThemes/
 - 只导入来自可信来源的主题
 - 主题CSS在应用前不会被执行任何JavaScript
 - 插件会自动备份原始登录样式
-
-## 🤝 贡献
-
-欢迎提交PR来添加新功能或分享你的主题！
-
-### 提交主题
-
-1. Fork 这个仓库
-2. 将你的主题CSS添加到 `themes/` 文件夹
-3. 提交 Pull Request
 
 ## 📄 许可证
 
